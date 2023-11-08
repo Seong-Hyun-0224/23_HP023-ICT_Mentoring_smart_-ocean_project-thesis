@@ -26,3 +26,12 @@
   <img src="https://github.com/Seong-Hyun-0224/23_HP023-ICT_Mentoring_smart_-ocean_project-thesis/assets/61938029/73f6e649-e4ba-49f1-a37e-3874b92182d0" width="30%">
   <img src="https://github.com/Seong-Hyun-0224/23_HP023-ICT_Mentoring_smart_-ocean_project-thesis/assets/61938029/64b01a20-13a2-45ba-b54a-b39ab3243f5f" width="30%">
 </p>  
+## 상장사진    
+<p align = "center" width = "100%">
+  <img src = "https://github.com/Seong-Hyun-0224/23_HP023-ICT_Mentoring_smart_-ocean_project-thesis/assets/61938029/08f35377-d896-44a8-8247-2a7c33ef4e4c" width = "45%">
+  <img src = "https://github.com/Seong-Hyun-0224/23_HP023-ICT_Mentoring_smart_-ocean_project-thesis/assets/61938029/f7eba1db-6ea9-46db-baa8-0f6ed4cfa694" width = "45%">
+</p>
+
+## 논문 투고 및 게재 정보
+<img src = "https://github.com/Seong-Hyun-0224/23_HP023-ICT_Mentoring_smart_-ocean_project-thesis/assets/61938029/260ec4e6-bba1-4c03-881e-d593b6e4843d" width = "70%">  
+
